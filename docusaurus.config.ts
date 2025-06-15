@@ -138,6 +138,11 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} richardtin, Inc. Built with Docusaurus.`,
     },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
