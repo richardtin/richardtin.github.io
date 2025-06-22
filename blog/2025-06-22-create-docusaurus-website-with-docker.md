@@ -79,7 +79,7 @@ $ docker compose up -d
 
 請在瀏覽器開啟 http://my-website.traefik.me
 
-## 六、開始編輯您的筆記
+## 五、開始編輯您的筆記
 
 此時，您的 Docusaurus 專案位於 my-website 目錄中，主要重點：
 
@@ -89,7 +89,7 @@ $ docker compose up -d
 
 每當您修改 Markdown 或配置，Docker 容器中的開發伺服器會自動熱更新，無需重啟。
 
-## 七、下一步
+## 六、下一步
 
 若想將網站發佈到正式環境，建議使用以下方式：
 
@@ -100,7 +100,7 @@ $ docker compose up -d
 
 - 將 `build/` 目錄部署到任意靜態主機（如 NGINX、S3、Vercel 等）
 
-## 八、結語
+## 七、結語
 
 Docusaurus 與 Docker 的結合，讓筆記不僅僅是筆記，而是活的知識系統。
 
