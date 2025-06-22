@@ -23,3 +23,14 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+richardtin:
+  name: Richard Ting
+  title: Software Engineer
+  url: https://richardtin.github.io
+  image_url: https://github.com/richardtin.png
+  page: true
+  socials:
+    x: richardtin
+    linkedin: richardtin
+    github: richardtin
