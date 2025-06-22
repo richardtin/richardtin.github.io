@@ -8,6 +8,11 @@ hello:
   permalink: /hello
   description: Hello tag description
 
+docker:
+  label: Docker
+  permalink: /docker
+  description: Docker tag description
+
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
